@@ -52,5 +52,5 @@ http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-id="1615" group-title="St Lake Telecom TV News/International",LRT Lituanica
 https://lituanica.lrt.lt/lituanica/master.m3u8
-#EXTINF:-1 tvg-id="1616" group-title="St Lake Telecom TV News/International",LRT Lituanica
-https://lituanica.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="1616" group-title="St Lake Telecom TV News/International",NTA International
+https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
